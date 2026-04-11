@@ -1,2 +1,5 @@
-# .github
-Next Gen Prediction Market Infra built in Rust- Aggregated CrossVenue Data | Real Time Computed Analytics | Data Quality Grading | Tick-level Historical Export | Broker | Order Routing | Backtesting | Paper Sim | OEMS | Portfolio Management | Automated Trading 
+# PolyEdge
+
+Prediction market data infrastructure. Normalized, graded, cross-venue feeds for bots, quants & AI agents.
+
+[polyedge.trade](https://polyedge.trade)
