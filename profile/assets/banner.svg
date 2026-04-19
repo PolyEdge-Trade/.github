@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400">
+  <!-- Background -->
+  <rect width="1280" height="400" fill="#000000"/>
+
+  <!-- Ambient oversized watermark (bottom) -->
+  <text x="640" y="385" text-anchor="middle"
+    font-family="Inter, 'Helvetica Neue', Arial, sans-serif"
+    font-weight="900" font-size="180" letter-spacing="-6"
+    fill="#0A0A0A">POLYEDGE</text>
+
+  <!-- Logo mark (simplified interlocking rounded rects, matching the wordmark icon) -->
+  <g transform="translate(80, 80)">
+    <rect x="0" y="8" width="42" height="40" rx="12" ry="12"
+      fill="none" stroke="#FFFFFF" stroke-width="5"/>
+    <rect x="28" y="0" width="42" height="40" rx="12" ry="12"
+      fill="none" stroke="#FFFFFF" stroke-width="5"/>
+  </g>
+
+  <!-- POLYEDGE wordmark next to logo -->
+  <text x="176" y="113"
+    font-family="'JetBrains Mono', 'SF Mono', Menlo, monospace"
+    font-weight="500" font-size="22" letter-spacing="4"
+    fill="#00D9FF">POLYEDGE</text>
+
+  <!-- Eyebrow label -->
+  <text x="80" y="185"
+    font-family="'JetBrains Mono', 'SF Mono', Menlo, monospace"
+    font-weight="400" font-size="13" letter-spacing="3"
+    fill="#00D9FF">PREDICTION MARKET INFRASTRUCTURE</text>
+
+  <!-- Thin rule below eyebrow -->
+  <line x1="80" y1="200" x2="1200" y2="200"
+    stroke="#1A1A1A" stroke-width="1"/>
+
+  <!-- Main headline -->
+  <text x="80" y="260"
+    font-family="Inter, 'Helvetica Neue', Arial, sans-serif"
+    font-weight="800" font-size="56" letter-spacing="-1"
+    fill="#FFFFFF">EVERY EDGE. EVERY MARKET.</text>
+
+  <!-- Three-pillar label -->
+  <text x="80" y="305"
+    font-family="'JetBrains Mono', 'SF Mono', Menlo, monospace"
+    font-weight="500" font-size="15" letter-spacing="4"
+    fill="#999999">DATA<tspan fill="#00D9FF" dx="14">·</tspan><tspan dx="14">INTELLIGENCE</tspan><tspan fill="#00D9FF" dx="14">·</tspan><tspan dx="14">EXECUTION</tspan></text>
+
+  <!-- ALPHA pill indicator (bottom right) -->
+  <g transform="translate(1080, 340)">
+    <rect x="0" y="0" width="90" height="28" rx="0" ry="0"
+      fill="#00D9FF"/>
+    <text x="45" y="19" text-anchor="middle"
+      font-family="'JetBrains Mono', 'SF Mono', Menlo, monospace"
+      font-weight="500" font-size="12" letter-spacing="3"
+      fill="#000000">ALPHA</text>
+  </g>
+</svg>
