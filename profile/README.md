@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/banner.svg" alt="PolyEdge" width="96" height="96" />
+<img src="./assets/banner.svg" alt="PolyEdge — Every edge. Every market. Data · Intelligence · Execution." />
 PolyEdge
 Every edge. Every market.
 DATA  ·  INTELLIGENCE  ·  EXECUTION
