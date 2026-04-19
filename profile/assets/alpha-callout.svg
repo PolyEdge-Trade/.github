@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" width="1200" height="140">
+  <!-- Outer card -->
+  <rect x="0.5" y="0.5" width="1199" height="139" fill="#0A0A0A" stroke="#1A1A1A" stroke-width="1"/>
+
+  <!-- ALPHA pill -->
+  <rect x="32" y="32" width="72" height="24" fill="#00D9FF"/>
+  <text x="68" y="49" text-anchor="middle"
+    font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace"
+    font-weight="500" font-size="11" letter-spacing="3"
+    fill="#000000">ALPHA</text>
+
+  <!-- Status headline -->
+  <text x="124" y="50"
+    font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace"
+    font-weight="500" font-size="14" letter-spacing="2"
+    fill="#FFFFFF">FREE TIER LIVE</text>
+
+  <!-- Body text -->
+  <text x="32" y="88"
+    font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace"
+    font-weight="400" font-size="13" letter-spacing="0"
+    fill="#999999">Paid tiers are being hardened and will roll out over the coming weeks.</text>
+  <text x="32" y="110"
+    font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace"
+    font-weight="400" font-size="13" letter-spacing="0"
+    fill="#999999">Expect rough edges. Feedback from early users shapes the product.</text>
+</svg>

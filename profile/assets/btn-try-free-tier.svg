@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" width="220" height="48">
+  <rect width="220" height="48" fill="#00D9FF"/>
+  <text x="110" y="30" text-anchor="middle"
+    font-family="'JetBrains Mono', 'SF Mono', Menlo, Consolas, monospace"
+    font-weight="500" font-size="13" letter-spacing="2"
+    fill="#000000">TRY FREE TIER</text>
+</svg>
