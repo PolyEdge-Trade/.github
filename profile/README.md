@@ -1,9 +1,5 @@
 <div align="center">
 <img src="./assets/banner.svg" alt="PolyEdge — Every edge. Every market. Data · Intelligence · Execution." />
-PolyEdge
-Every edge. Every market.
-DATA  ·  INTELLIGENCE  ·  EXECUTION
-Infrastructure for prediction markets.
 <br />
 <a href="https://polyedge.trade"><img src="https://img.shields.io/badge/Try_Free_Tier-00D9FF?style=for-the-badge&logoColor=black" alt="Try Free Tier" /></a>
 <a href="https://twitter.com/polyedge"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
