@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://polyedge.trade"><img src="./assets/btn-try-free-tier.svg" alt="Try Free Tier" height="48" /></a>
   &nbsp;
-  <a href="https://twitter.com/polyedge](https://x.com/polyedgeio"><img src="./assets/btn-twitter.svg" alt="Twitter" height="48" /></a>
+  <a href="https://x.com/polyedgeio"><img src="./assets/btn-twitter.svg" alt="Twitter" height="48" /></a>
   &nbsp;
   <a href="https://discord.gg/"><img src="./assets/btn-discord.svg" alt="Discord" height="48" /></a>
 </p>
