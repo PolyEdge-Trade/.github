@@ -1,20 +1,37 @@
-<div align="center">
-<img src="./assets/banner.svg" alt="PolyEdge — Every edge. Every market. Data · Intelligence · Execution." />
+<p align="center">
+  <img src="./assets/banner.svg" alt="PolyEdge — Every edge. Every market. Data · Intelligence · Execution." />
+</p>
+<p align="center">
+  <a href="https://polyedge.trade"><img src="./assets/btn-try-free-tier.svg" alt="Try Free Tier" height="48" /></a>
+  &nbsp;
+  <a href="https://twitter.com/polyedge"><img src="./assets/btn-twitter.svg" alt="Twitter" height="48" /></a>
+  &nbsp;
+  <a href="https://discord.gg/polyedge"><img src="./assets/btn-discord.svg" alt="Discord" height="48" /></a>
+</p>
 <br />
-<a href="https://polyedge.trade"><img src="https://img.shields.io/badge/Try_Free_Tier-00D9FF?style=for-the-badge&logoColor=black" alt="Try Free Tier" /></a>
-<a href="https://twitter.com/polyedge"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
-<a href="https://discord.gg/polyedge"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-</div>
+<p align="center">
+  <img src="./assets/eyebrow-overview.svg" alt="Overview" />
+</p>
+PolyEdge is the real-time infrastructure layer for prediction markets. Normalized, graded, multi-venue data today. Server-computed intelligence and execution infrastructure building toward the same surface.
+Streaming, REST, and tick-level Parquet exports. Rolling compute, not batched queries. From the solo trader wiring up their first dashboard to the quant team ingesting at scale.
+<br />
+<p align="center">
+  <img src="./assets/eyebrow-capabilities.svg" alt="Capabilities" />
+</p>
 
-Prediction markets are maturing into a real financial domain, and the participants driving that growth — systematic traders, autonomous agents, and quantitative researchers — need infrastructure that treats it as one.
-Raw venue feeds are fragmented and ungraded. Every serious builder ends up solving the same problems: normalizing schemas, reasoning about data quality, stitching history together, and computing the same indicators from scratch.
-PolyEdge is the layer that handles it. Multi-venue coverage, graded quality, and the depth and consistency AI-agent and systematic workflows actually require.
+Real-time streaming. Direct WebSocket feeds, sub-second latency. No batching layer.
+REST API. Full REST surface for on-demand queries.
+Parquet exports. Tick-level historical data, natively columnar. Drop into DuckDB, Spark, or pandas without conversion.
+Multi-venue. Unified schema. Polymarket, Kalshi, more coming.
+Graded quality. Four-tier scoring on every market.
+Server-computed indicators. EMA, RSI, MACD, VWAP, microstructure. Rolling, not recomputed per request.
+Agent-native. Structured responses for LLM and systematic workflows.
 
-ALPHA — FREE TIER LIVE
-The free tier is live for early builders. Paid tiers are actively being hardened and will roll out over the coming weeks. Expect rough edges.
-Feedback from early users shapes the product. Reach us on Discord or through the feedback channel.
-
-<div align="center">
-Start building →
-<sub>BUILT IN RUST</sub>
-</div>
+<br />
+<p align="center">
+  <img src="./assets/alpha-callout.svg" alt="Alpha — free tier live. Paid tiers are being hardened and will roll out over the coming weeks. Expect rough edges. Feedback from early users shapes the product." />
+</p>
+<br />
+<p align="center">
+  <a href="https://polyedge.trade"><img src="./assets/btn-try-free-tier.svg" alt="Start building" height="48" /></a>
+</p>
