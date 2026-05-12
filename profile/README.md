@@ -7,7 +7,7 @@
   &nbsp;
   <a href="https://x.com/polyedgeio"><img src="./assets/btn-twitter.svg" alt="Twitter" height="48" /></a>
   &nbsp;
-  <a href="https://discord.gg/"><img src="./assets/btn-discord.svg" alt="Discord" height="48" /></a>
+  <a href="https://discord.gg/yC2SFyNK"><img src="./assets/btn-discord.svg" alt="Discord" height="48" /></a>
 </p>
 
 <br />
